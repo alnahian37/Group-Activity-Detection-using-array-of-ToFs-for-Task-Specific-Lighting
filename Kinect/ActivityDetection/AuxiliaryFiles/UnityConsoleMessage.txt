@@ -1,0 +1,473 @@
+First Frame of Animation
+UnityEngine.Debug:Log (object)
+PythonCommunication:ProcessData () (at Assets/OUR_CODE/PythonCommunication.cs:550)
+PythonCommunication:DataProcessingMohaiminul () (at Assets/OUR_CODE/PythonCommunication.cs:596)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:636)
+UnityEngine.MonoBehaviour:StartCoroutine (System.Collections.IEnumerator)
+PythonCommunication:Start () (at Assets/OUR_CODE/PythonCommunication.cs:234)
+
+Activity Change was Recognized
+UnityEngine.Debug:Log (object)
+PythonCommunication:ProcessData () (at Assets/OUR_CODE/PythonCommunication.cs:556)
+PythonCommunication:DataProcessingMohaiminul () (at Assets/OUR_CODE/PythonCommunication.cs:596)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:636)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+You just clicked the SWAP to SetForget BVLS button.
+UnityEngine.Debug:Log (object)
+PythonCommunication:ClickAssignSWAPtoSetForgetBVLS () (at Assets/OUR_CODE/PythonCommunication.cs:394)
+PythonCommunication:ProcessData () (at Assets/OUR_CODE/PythonCommunication.cs:563)
+PythonCommunication:DataProcessingMohaiminul () (at Assets/OUR_CODE/PythonCommunication.cs:596)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:636)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The oPos are: (-4.757, 1.773, -1.957)(-0.850, 0.280, 0.807)(-0.474, -0.112, 0.353)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The MainCamera is in sphere/child number: 3
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:714)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (0.121, -0.035, -0.992)(-0.072, -0.035, 0.997)(0.997, -0.035, 0.072)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item One (BLEND): BLEND
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:774)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Two (groupID): B
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:775)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Three (swapWith): setForget BVLS
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:776)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Four (intensityMultis): 0.87 0.87 0.89 0.85 0.88 0.85 0.96 0.95
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:777)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Five (energySavings): 0.00
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:778)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+eLAPDED tIME is: 1184
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:862)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+From Activity A to B
+UnityEngine.Debug:Log (object)
+FindIESLights/<BlendCoroutine>d__19:MoveNext () (at Assets/OUR_CODE/FindIESLights.cs:121)
+UnityEngine.MonoBehaviour:StartCoroutine (System.Collections.IEnumerator)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:866)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+You just clicked the ECO++ button.
+UnityEngine.Debug:Log (object)
+PythonCommunication:ClickAssignEcoPlusPlus () (at Assets/OUR_CODE/PythonCommunication.cs:343)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:501)
+
+The oPos are: (-1.024, 1.773, -8.894)(-3.565, 1.780, -3.832)(-0.474, -0.112, 0.353)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (0.956, -0.035, -0.291)(0.925, -0.035, -0.378)(0.997, -0.035, 0.072)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The oPos are: (-1.025, 1.773, -8.894)(-3.589, 1.780, -3.809)(-0.474, -0.112, 0.353)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (0.956, -0.035, -0.291)(0.930, -0.035, -0.365)(0.997, -0.035, 0.072)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Two (groupID): A
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:775)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Four (intensityMultis): 0.29 0.25 0.20 0.15 0.24 0.19 0.21 0.13
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:777)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Five (energySavings): 79.73
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:778)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+eLAPDED tIME is: 1047
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:833)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+From Activity B to A
+UnityEngine.Debug:Log (object)
+FindIESLights/<BlendCoroutine>d__19:MoveNext () (at Assets/OUR_CODE/FindIESLights.cs:171)
+UnityEngine.MonoBehaviour:StartCoroutine (System.Collections.IEnumerator)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:866)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Four (intensityMultis): 0.29 0.25 0.20 0.15 0.25 0.19 0.21 0.13
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:777)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Five (energySavings): 79.74
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:778)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+eLAPDED tIME is: 1018
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:862)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The oPos are: (-0.987, 1.773, -8.901)(-3.717, 1.280, -3.466)(-0.474, -0.112, 0.353)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (0.999, -0.035, -0.015)(0.998, -0.035, 0.051)(0.997, -0.035, 0.072)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Four (intensityMultis): 0.28 0.26 0.21 0.16 0.26 0.19 0.23 0.15
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:777)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Five (energySavings): 77.93
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:778)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+eLAPDED tIME is: 1006
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:833)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The oPos are: (-1.002, 1.773, -8.819)(-3.586, 1.280, -3.388)(-2.297, 1.388, -1.691)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (0.975, -0.035, -0.219)(0.990, -0.035, 0.139)(-0.643, -0.035, -0.765)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Four (intensityMultis): 0.29 0.25 0.19 0.15 0.26 0.19 0.21 0.25
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:777)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Five (energySavings): 76.66
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:778)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+eLAPDED tIME is: 1028
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:862)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The oPos are: (-1.577, 1.773, -8.500)(-3.574, 1.280, -3.425)(-2.133, 0.888, -1.741)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (-0.646, -0.035, -0.763)(0.997, -0.035, -0.064)(-0.789, -0.035, -0.614)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Four (intensityMultis): 0.26 0.19 0.20 0.16 0.27 0.19 0.22 0.35
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:777)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Five (energySavings): 74.64
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:778)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+eLAPDED tIME is: 999
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:833)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+You just clicked the SWAP to Table BVLS button.
+UnityEngine.Debug:Log (object)
+PythonCommunication:ClickAssignSWAPtoTableBVLS () (at Assets/OUR_CODE/PythonCommunication.cs:410)
+PythonCommunication:ProcessData () (at Assets/OUR_CODE/PythonCommunication.cs:566)
+PythonCommunication:DataProcessingMohaiminul () (at Assets/OUR_CODE/PythonCommunication.cs:596)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:636)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The oPos are: (-2.080, 1.273, -8.558)(-3.568, 1.280, -3.422)(-2.014, 0.888, -1.772)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (-0.628, -0.035, -0.778)(0.991, -0.035, -0.131)(-0.963, -0.035, -0.267)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Three (swapWith): table BVLS
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:776)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Four (intensityMultis): 0.13 0.12 0.12 0.12 0.14 0.10 0.13 0.17
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:777)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Five (energySavings): 82.55
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:778)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+eLAPDED tIME is: 996
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:862)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The oPos are: (-2.052, 1.273, -8.673)(-3.583, 1.280, -3.374)(-2.127, 0.888, -1.815)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (-0.865, -0.035, -0.501)(0.999, -0.035, -0.032)(-0.614, -0.035, -0.788)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Four (intensityMultis): 0.13 0.12 0.12 0.12 0.14 0.11 0.14 0.16
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:777)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Five (energySavings): 82.40
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:778)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+eLAPDED tIME is: 1017
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:833)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The oPos are: (-1.846, 1.773, -8.468)(-3.595, 1.280, -3.364)(-2.137, 0.888, -1.846)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (-0.435, -0.035, -0.900)(0.999, -0.035, 0.034)(-0.326, -0.035, -0.945)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Four (intensityMultis): 0.29 0.13 0.19 0.16 0.26 0.21 0.22 0.34
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:777)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Five (energySavings): 74.56
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:778)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+eLAPDED tIME is: 1011
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:862)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The oPos are: (-1.216, 1.773, -4.687)(-3.619, 1.280, -2.749)(-2.072, 0.888, -1.534)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (0.417, -0.035, -0.908)(0.991, -0.035, -0.127)(-0.921, -0.035, -0.387)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Four (intensityMultis): 0.28 0.11 0.20 0.15 0.24 0.36 0.24 0.28
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:777)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Five (energySavings): 75.20
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:778)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+eLAPDED tIME is: 992
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:833)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The oPos are: (-1.224, 1.773, -4.598)(-3.665, 1.280, -2.722)(-2.078, 0.888, -1.503)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (0.384, -0.035, -0.923)(0.997, -0.035, -0.073)(-0.875, -0.035, -0.483)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Four (intensityMultis): 0.28 0.11 0.20 0.14 0.23 0.37 0.25 0.27
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:777)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Five (energySavings): 75.04
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:778)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+eLAPDED tIME is: 1033
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:862)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The oPos are: (-1.617, 1.273, -3.602)(-3.676, 1.280, -2.715)(-1.908, 0.888, -1.535)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (-0.211, -0.035, -0.977)(0.987, -0.035, -0.156)(-0.998, -0.035, -0.046)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The oPos are: (-1.668, 1.273, -3.437)(-3.680, 1.280, -2.712)(-1.886, 0.888, -1.502)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (-0.293, -0.035, -0.956)(0.989, -0.035, -0.142)(-0.999, -0.035, 0.004)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Four (intensityMultis): 0.12 0.07 0.12 0.11 0.12 0.14 0.13 0.16
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:777)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Five (energySavings): 84.41
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:778)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+eLAPDED tIME is: 1016
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:833)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The oPos are: (-1.640, 1.273, -3.009)(-3.684, 1.280, -2.708)(-2.210, 0.888, -1.573)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (-0.824, -0.035, -0.566)(0.985, -0.035, -0.171)(-0.683, -0.035, -0.729)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The oPos are: (-1.631, 1.273, -2.995)(-3.681, 1.280, -2.706)(-2.104, 0.888, -1.491)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (-0.848, -0.035, -0.529)(0.995, -0.035, -0.093)(-0.837, -0.035, -0.547)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Four (intensityMultis): 0.12 0.07 0.11 0.11 0.12 0.13 0.13 0.16
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:777)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Five (energySavings): 84.36
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:778)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+eLAPDED tIME is: 986
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:862)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+You just clicked the ECO button.
+UnityEngine.Debug:Log (object)
+PythonCommunication:ClickAssignEco () (at Assets/OUR_CODE/PythonCommunication.cs:316)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:501)
+
+You just clicked the SWAP to Blackboard BVLS button.
+UnityEngine.Debug:Log (object)
+PythonCommunication:ClickAssignSWAPtoBlackboardBVLS () (at Assets/OUR_CODE/PythonCommunication.cs:442)
+PythonCommunication:ProcessData () (at Assets/OUR_CODE/PythonCommunication.cs:569)
+PythonCommunication:DataProcessingMohaiminul () (at Assets/OUR_CODE/PythonCommunication.cs:596)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:636)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The oPos are: (-1.625, 1.273, -2.986)(-3.677, 1.280, -2.693)(-2.366, 1.388, -1.557)(-4.220, 1.700, -10.692)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:707)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+The gVecs are: (-0.861, -0.035, -0.508)(0.998, -0.035, -0.057)(-0.574, -0.035, -0.818)(0.442, 0.000, 0.897)
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:734)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Three (swapWith): blackboard BVLS
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:776)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Four (intensityMultis): 0.14 0.15 0.17 0.17 0.14 0.13 0.38 0.38
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:777)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Item Five (energySavings): 80.90
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:778)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+eLAPDED tIME is: 1025
+UnityEngine.Debug:Log (object)
+PythonCommunication/<WhileRunning>d__86:MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:833)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+PythonCommunication.DataProcessingMohaiminul () (at Assets/OUR_CODE/PythonCommunication.cs:581)
+PythonCommunication+<WhileRunning>d__86.MoveNext () (at Assets/OUR_CODE/PythonCommunication.cs:636)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <6cd989684d0c46e58e0ce6f2dfd9ac5c>:0)
+

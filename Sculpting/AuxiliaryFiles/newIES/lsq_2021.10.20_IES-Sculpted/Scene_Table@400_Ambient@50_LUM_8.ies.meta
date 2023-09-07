@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 882f26d6e4a598f42bee3273d4d8a8c5
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 9801397f829a1ed42984340315cbf362, type: 3}
+  iesMetaData:
+    FileFormatVersion: LM-63-2002
+    IESPhotometricType: Type C
+    IESMaximumIntensity: 1526.1375
+    IESMaximumIntensityUnit: Lumens
+    Manufacturer: Scene_Table@400_Ambient@50
+    LuminaireCatalogNumber: 
+    LuminaireDescription: 
+    LampCatalogNumber: 
+    LampDescription: 
+    PrefabLightType: 0
+    SpotAngle: 120
+    iesSize: 128
+    ApplyLightAttenuation: 1
+    UseIESMaximumIntensity: 1
+    CookieCompression: 2
+    LightAimAxisRotation: -90
